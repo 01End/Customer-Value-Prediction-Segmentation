@@ -1,4 +1,5 @@
 dataset link : https://archive.ics.uci.edu/dataset/352/online+retail
+random forest model link (large file): https://drive.google.com/file/d/11MBSR5YNFUxaPIrgy8WtqYWTA5bIP3OA/view?usp=sharing
 
 # Customer Value Prediction & Segmentation
 
